@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/ShajibEwuCse19/ShajibEwuCse19/blob/main/profile.png" alt="Banner" width="1000" height="300">
+<img align="center" src="https://github.com/ShajibEwuCse19/ShajibEwuCse19/blob/main/BUET_CSE_FEST.jpg" alt="BUET-CSE-FEST-2022" width="1000" height="500">
 
 <h1 align="center">Hi 👋, I'm Md. Shajibul Islam</h1>
 <h3 align="center">A passionate competitive programmer from Bangladesh</h3>
