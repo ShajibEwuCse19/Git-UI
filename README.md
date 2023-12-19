@@ -7,13 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajibewucse19&label=Profile%20views&color=0e75b6&style=flat" alt="shajibewucse19" /> </p>
 
-- 🌱 I’m currently learning **JS, React, NodeJS**
+- 🌱 I’m currently learning **Go, JavaScript, Web Development**
 
 - 💬 Ask me about **Data Structures, Algorithms, DBMS, OS, Networking**
 
 - 📫 How to reach me **mdshajib8190@gmail.com**  
-
-- ⚡ Fun fact **I'm funny😂**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
